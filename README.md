@@ -4,7 +4,7 @@
 
 ## Synapse Packages
 
-- `[synapse-triage](https://github.com/captainGeech42/synapse-triage)` - Rapid Power-up for ingesting data from Hatching Triage.
-- `[synapse-sinkdb](https://github.com/captainGeech42/synapse-sinkdb)` - Rapid Power-up for ingesting data from SinkDB.
-- `[synapse-webhook](https://github.com/captainGeech42/synapse-webhook)` - Rapid Power-up for interacting with webhooks.
-- `[synapse-fileparser](https://github.com/captainGeech42/synapse-fileparser)` - Advanced Power-up for parsing files.
+- [`synapse-triage`](https://github.com/captainGeech42/synapse-triage) - Rapid Power-up for ingesting data from Hatching Triage.
+- [`synapse-sinkdb`](https://github.com/captainGeech42/synapse-sinkdb) - Rapid Power-up for ingesting data from SinkDB.
+- [`synapse-webhook`](https://github.com/captainGeech42/synapse-webhook) - Rapid Power-up for interacting with webhooks.
+- [`synapse-fileparser`](https://github.com/captainGeech42/synapse-fileparser) - Advanced Power-up for parsing files.
